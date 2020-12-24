@@ -1,0 +1,31 @@
+body{
+    background-image: url("../images/chad-madden-SUTfFCAHV_A-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover
+}
+.navigation{
+    margin-right: 1rem ;
+}
+.navbar {
+    padding: 1rem 0rem ;
+}
+.nav-item{
+    padding-left: 2rem
+}
+.nav-icon{
+    width: 40px;
+    height: 40px;
+}
+.main{
+    position : static;
+    padding-top : 5rem;
+    position : relative;
+}
+/* timer */
+.timer-p {
+    text-align: center;
+    margin-top: 10rem;
+    font-size: 4rem;
+    font-family: 'Langar', cursive;
+    color: black;
+}
